@@ -11,7 +11,7 @@
 
 <div align="center">
 <img alt="my stats" src="https://github.com/Cornsigliere/Cornsigliere/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Cornsigliere=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api/wakatime?Cornsigliere=ffflabs"/>
 </div>
 
 <!-- c%23 -->
