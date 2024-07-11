@@ -11,5 +11,4 @@
 
 <div align="center">
 <img alt="my stats" src="https://github.com/Cornsigliere/Cornsigliere/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api/wakatime?cornsigliere=ffflabs"/>
 </div>
