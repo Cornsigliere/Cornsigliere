@@ -13,3 +13,8 @@
 <div align="center">
 <img alt="my stats" src="https://github.com/Cornsigliere/Cornsigliere/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 </div>
+
+<!-- c%23 -->
+
+<!--TEST_START_SECTION:waka-->
+<!--TEST_END_SECTION:waka-->
