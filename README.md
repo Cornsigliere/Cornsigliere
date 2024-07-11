@@ -2,7 +2,7 @@
 
 <div align="center">
 <img alt="my stats" width="400" src="https://github-readme-stats.vercel.app/api?username=Cornsigliere&show_icons=true&theme=transparent"/>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/user=Cornsigliere&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Cornsigliere&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF" />
 </div>
 
 <div align="center">  
