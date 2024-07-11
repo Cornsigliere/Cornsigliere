@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Cornsigliere&label=Profile%20views&color=0e75b6&style=flat" alt="Cornsigliere" /> 
+</p>
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Cornsigliere&show_icons=true&theme=transparent"/>
 
