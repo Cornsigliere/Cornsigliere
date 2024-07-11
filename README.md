@@ -7,7 +7,6 @@
 
 <div align="center">  
 <img alt="my stats" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornsigliere&layout=compact&theme=transparent"/>
-<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?cornsigliere=ffflabs)](https://github.com/cornsigliere/github-readme-stats)"/>
 </div>
 
 <div align="center">
