@@ -14,4 +14,5 @@
 </div>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cornsigliere&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cornsigliere)](https://github.com/anuraghazra/github-readme-stats)
+
