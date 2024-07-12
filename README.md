@@ -13,4 +13,5 @@
 <img alt="my stats" src="https://github.com/Cornsigliere/Cornsigliere/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?cornsigliere=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cornsigliere)](https://github.com/anuraghazra/github-readme-stats)
