@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">  
-<img alt="my stats" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornsigliere&hide_border=true&layout=compact&theme=transparent"/>
+<img alt="my stats" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cornsigliere&hide=html,css,scss,pug,json,jsx,other,groovy,java&hide_border=true&layout=compact&theme=transparent"/>
 <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=cornsigliere&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=html,css,scss,pug,json,jsx,other,groovy,java&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </div>
 
